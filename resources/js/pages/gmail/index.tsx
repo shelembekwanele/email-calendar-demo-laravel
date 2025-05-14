@@ -25,7 +25,7 @@ const mockMessages: Message[] = [
   {
     id: 1,
     from: "Shein",
-    subject: "Get 50% off on your first order!",
+    subject: "👍 Get 50% off on your first order!",
     body: "Thanks for signing up. Use code WELCOME50 at checkout to save 50%!",
     date: "2023-10-01",
   },
@@ -53,7 +53,7 @@ const mockMessages: Message[] = [
   {
     id: 5,
     from: "Amazon",
-    subject: "Your order has been shipped",
+    subject: "🎉 Your order has been shipped",
     body: "Your order #123-4567890 has been shipped and will arrive soon.",
     date: "2024-01-15",
   },
